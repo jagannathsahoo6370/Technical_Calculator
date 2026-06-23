@@ -121,12 +121,12 @@ python calculator.py
 
 ### Dark Theme
 
-![Dark Theme](<img width="380" height="210" alt="145931" src="https://github.com/user-attachments/assets/cc7be270-d64f-4260-9b0d-6427a06e1439" />)
+![Dark Theme](<img width="1672" height="941" alt="Dark_Theme png" src="https://github.com/user-attachments/assets/024923bd-1c9d-40f4-bb95-74904a609e85" />)
 
 
 ### Light Theme
 
-![Light Theme](<img width="391" height="214" alt="145930" src="https://github.com/user-attachments/assets/a287fcce-9273-4def-a3af-f23c041f99ee" />)
+![Light Theme](<img width="1672" height="941" alt="Light_Theme png" src="https://github.com/user-attachments/assets/90778a34-64bd-465d-bca3-7729fd020d56" />)
 
 ---
 
